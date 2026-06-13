@@ -11,4 +11,3 @@ if "satyam" in names:
     print("Present")
 else:
     print("Not Present")
-    
